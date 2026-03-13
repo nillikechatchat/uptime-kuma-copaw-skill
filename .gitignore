@@ -1,0 +1,7 @@
+.env
+uptime_kuma.log
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.vscode/
